@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "OpenSans";
+    src: url("../font/OpenSans-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Manrope";
+    src: url("../font/Manrope-Regular.ttf") format("truetype");
+}
